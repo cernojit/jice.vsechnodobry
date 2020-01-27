@@ -1,0 +1,16 @@
+.site-logo {
+	width: 120px;
+}
+
+.site-logo {
+	transition: 600ms ease-out;
+}
+
+.site-logo:hover {
+	transform: scale(1.1);
+}
+
+.project-text-inner p {
+	color: black;
+	font-size: 1.3em;
+}
